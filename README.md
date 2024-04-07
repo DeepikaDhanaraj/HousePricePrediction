@@ -3,7 +3,7 @@ Develop a machine learning model to predict the sale price of residential proper
 ## Starting the Project Folder
 Installation: To install Django follow these steps. To install the necessary modules follow this commands:
 
-'''
+```
 
 pip install pandas
 pip install matplotlib
@@ -11,7 +11,7 @@ import os
 pip install seaborn
 pip install scikit-learn
 
-'''
+```
 ## 1.Tools
 Front-end:
 1. HTML

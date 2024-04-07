@@ -4,8 +4,9 @@ Develop a machine learning model to predict the sale price of residential proper
 ##  Generic Flow Of Project
 ![flow1](https://github.com/DeepikaDhanaraj/HousePricePrediction/assets/133857686/96a73297-a06d-43c8-8948-e46654ba231a)
 
-##  Data Collection
-For this project we used the data that is available on kaggle("https://www.kaggle.com/datasets/aariyan101/usa-housingcsv").
+## Dataset
+
+[Download the dataset  from here]("https://www.kaggle.com/datasets/aariyan101/usa-housingcsv").
 
 ## 1. Starting the Project Folder
 Installation: Install Django and  install the necessary modules using  this commands:
@@ -41,5 +42,7 @@ Run the server with the help of following command:
 python3 manage.py runserver
 ```
 ## 3.Output
+![Output1](https://github.com/DeepikaDhanaraj/HousePricePrediction/blob/main/HousePricePrediction/output/hs1.png)
+
 The accuracy of the prediction system is 80% according to the linear regression algorithm.
 

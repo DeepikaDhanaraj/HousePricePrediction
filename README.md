@@ -6,7 +6,7 @@ Develop a machine learning model to predict the sale price of residential proper
 
 ## Dataset
 
-[Download the dataset  from here]("https://www.kaggle.com/datasets/aariyan101/usa-housingcsv").
+![Download the dataset  from here]("https://www.kaggle.com/datasets/aariyan101/usa-housingcsv").
 
 ## 1. Starting the Project Folder
 Installation: Install Django and  install the necessary modules using  this commands:

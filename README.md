@@ -43,6 +43,8 @@ python3 manage.py runserver
 ```
 ## 3.Output
 ![Output1](https://github.com/DeepikaDhanaraj/HousePricePrediction/blob/main/HousePricePrediction/output/hs1.png)
-
+![Output2](https://github.com/DeepikaDhanaraj/HousePricePrediction/blob/main/HousePricePrediction/output/hs2.png)
+![Output3](https://github.com/DeepikaDhanaraj/HousePricePrediction/blob/main/HousePricePrediction/output/Hs3.png)
+![Output4](https://github.com/DeepikaDhanaraj/HousePricePrediction/blob/main/HousePricePrediction/output/hs4.png)
 The accuracy of the prediction system is 80% according to the linear regression algorithm.
 
